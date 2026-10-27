@@ -79,8 +79,3 @@ This project was developed collaboratively as a group assignment, with each team
 
    Alternatively, open the project in a compatible C IDE, build it, and run the program.
 
-
-## Disclaimer
-
-This project was developed for educational purposes. It demonstrates basic train ticketing and account management workflows and is not intended for production use. The payment functionality is a demonstration and does not represent integration with a real payment gateway.
-
