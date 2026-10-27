@@ -48,10 +48,10 @@ This project was developed collaboratively as a group assignment, with each team
 
 ### Prerequisites
 
-- A C compiler, such as GCC or Microsoft Visual C.
-- A Windows environment is recommended because the program uses Windows console commands.
+- A C compiler or compatible C IDE, such as GCC or Microsoft Visual Studio.
+- Windows is recommended because the program uses Windows console commands.
 
-### Installation and Execution
+### Setup
 
 1. Clone this repository:
 
@@ -65,17 +65,6 @@ This project was developed collaboratively as a group assignment, with each team
    cd train-ticketing-system
    ```
 
-3. Compile the source file using GCC, if the submitted source builds successfully with your compiler:
+3. Open `FinalProgram.c` in a compatible C IDE.
 
-   ```bash
-   gcc FinalProgram.c -o train_ticketing.exe
-   ```
-
-4. Run the executable:
-
-   ```bash
-   train_ticketing.exe
-   ```
-
-   Alternatively, open the project in a compatible C IDE, build it, and run the program.
-
+4. Resolve any compilation errors, build the program, and run it in the IDE.
